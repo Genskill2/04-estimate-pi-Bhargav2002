@@ -40,8 +40,8 @@ int main(void) {
 }
 
 float mc_pi(int i){
-  float frandom(x);
-  float frandom(y);
+  float frandom(int x);
+  float frandom(int y);
   int a=0;
   for (int n=0;n<=i;n++){
     float b = sqrt((x*x)+(y*y));
