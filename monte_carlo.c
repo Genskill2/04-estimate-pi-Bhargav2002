@@ -52,7 +52,7 @@ float mc_pi(int i){
       a++;
     }
   }
-  float e=(float)(4*a)/i ;
+   e=(float)(4*a)/i ;
   return(e);
 }
 
