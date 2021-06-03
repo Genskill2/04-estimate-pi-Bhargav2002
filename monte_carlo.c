@@ -50,8 +50,8 @@ float mc_pi(int i){
       a++;
     }
   }
-  float d=(float)(4*a)/i ;
-  return(d);
+  float e=(float)(4*a)/i ;
+  return(e);
 }
 
 
