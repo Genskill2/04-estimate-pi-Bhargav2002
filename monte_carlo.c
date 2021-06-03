@@ -39,5 +39,18 @@ int main(void) {
   }
 }
 
+float mc_pi(int i){
+  float frandom(x);
+  float frandom(y);
+  int a=0;
+  for (int n=0;n<=i;n++){
+    float b = sqrt((x*x)+(y*y));
+    if(b<=1){
+      a++;
+    }
+  }
+  float d=(float)(4*a)/i ;
+  return(d);
+}
 
 
