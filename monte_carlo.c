@@ -40,7 +40,7 @@ int main(void) {
 }
 
 float mc_pi(int i){
-  float x,y,b,e;
+  float x,y,b,d;
  
   
   int a=0;
@@ -52,8 +52,8 @@ float mc_pi(int i){
       a++;
     }
   }
-   e=(float)(4*a)/i ;
-  return(e);
+   d=(float)(4*a)/i ;
+  return(d);
 }
 
 
