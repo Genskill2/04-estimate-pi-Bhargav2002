@@ -33,5 +33,6 @@ float wallis_pi(int i){
   for (int n=1;n<=i;n++){
     ret*=c;
   }
+  ret=ret*2;
   return(ret);
 }
